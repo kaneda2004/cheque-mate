@@ -1,0 +1,5 @@
+venv/
+scans/*
+cheque_data_2024.xls
+cheque_data.csv
+cheque_data_2024.xlsx
